@@ -1,0 +1,7 @@
+Pepa:1987-12-01:Praha:10
+Karel Dvořák:2005-12-31:Uherské Hradiště:45
+Jana:1990-01-01:Brno:20
+Petr:1995-05-05:Brno:30
+Anna:1988-03-15:Uherské Hradiště:25
+Marek:1992-07-22:Uherské Hradiště:15
+Eva:1985-11-30:Uherské Hradiště:35
